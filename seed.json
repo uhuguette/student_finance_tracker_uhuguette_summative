@@ -1,0 +1,11 @@
+[
+{
+"id": "txn_1",
+"description": "Lunch at cafeteria",
+"amount": 12.50,
+"category": "Food",
+"date": "2025-09-25",
+"createdAt": "2025-09-25T10:00:00Z",
+"updatedAt": "2025-09-25T10:00:00Z"
+}
+]
