@@ -52,3 +52,5 @@ Testing Instructions
 5.JSON Import/Export: Export data, delete records, then import to restore.
 6.Keyboard Navigation: Navigate fully without a mouse.
 7.tests.html: Open in browser and check console for passing assertions.
+
+My website link is http://127.0.0.1:5500/student_finance_tracker_uhuguette_summative/index.html
