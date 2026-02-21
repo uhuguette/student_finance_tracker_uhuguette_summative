@@ -54,3 +54,4 @@ Testing Instructions
 7.tests.html: Open in browser and check console for passing assertions.
 
 My website link is http://127.0.0.1:5500/student_finance_tracker_uhuguette_summative/index.html
+Demo video link is https://www.loom.com/share/4b2384519fa74af6a85f3c838cce3706
